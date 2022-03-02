@@ -1,1 +1,1 @@
-# Distribution_Automation_Infographic
+<img src="FLISR Infographic.png" />
